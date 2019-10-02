@@ -1,0 +1,57 @@
+<resources>
+    <!-- General Information -->
+    <string name="app_name">Stock Center</string>
+    <string name="query_hint">Search here</string>
+    <string name="API_key">RP7VO1XP20SHSBX2</string>
+    <string name="sharedPreferencesString">SCSharedPreferences</string>
+    <string name="UserDataString">UserData</string>
+    
+    <!-- MainActivity -->
+    <string name="main_layout_description">Layout of the Main Activity</string>
+    <string name="main_search_view_description">SearchView of the Main Activity</string>
+    <string name="main_user_list_text_view_description">TextView of User List in the Main Activity
+        </string>
+    <string name="main_scroll_view_description">ScrollView of the Main Activity</string>
+    <string name="main_scroll_view_linear_layout_description">Linear Layout which is a direct child 
+        of the ScrollView in the Main Activity Class</string>
+    <string name="main_no_equity_text_view_description">TextView for the case of an empty user list
+        </string>
+    <string name="main_user_list_text">My List</string>
+    <string name="main_no_equity_text">No Equity Currently Observed</string>
+    
+    <!-- SearchResultActivity -->
+    <string name="search_result_layout_description">Layout of the Search Result Activity</string>
+    <string name="search_result_search_view_description">SearchView of the Search Result Activity
+        </string>
+    <string name="search_result_text_view_description">TextView of the Search Result Activity
+        </string>
+    <string name="search_result_scroll_view_description">ScrollView of the Search Result Activity
+        </string>
+    <string name="search_result_scroll_view_linear_layout_description">Linear layout inside the 
+        ScrollView of the Search Result Activity Class</string>
+    <string name="search_result_back_button_description">Back Button of the Search Result Activity
+        </string>
+    <string name="search_result_search_result">Search Result</string>
+    
+    <!-- SearchInfoActivity -->
+    <string name="search_info_layout_description">Layout of the Search Info Activity</string>
+    <string name="search_info_textView_description">TextView in the SearchInfo Activity that shows 
+        details about a particular stock</string>
+    <string name="search_info_add_button_description">The Add Button in the SearchInfo Activity that
+        enables a user to add a stock to their list</string>
+    <string name="search_info_add_button_text">ADD</string>
+    <string name="search_info_back_button_description">The Back Button in the SearchInfo Activity 
+        that ends the current instance of SearchInfo Activity</string>
+    <string name="search_info_back_button_text">BACK</string>
+    
+    <!-- UserInfoActivity -->
+    <string name="user_info_layout_description">Layout of the User Info Activity</string>
+    <string name="user_info_textView_description">TextView in the UserInfo Activity that shows 
+        details about a particular stock</string>
+    <string name="user_info_delete_button_description">The Delete Button in the UserInfo Activity 
+        that enables a user to delete a stock from their list</string>
+    <string name="user_info_delete_button_text">DELETE</string>
+    <string name="user_info_back_button_description">The Back Button in the UserInfo Activity that 
+        ends the current instance of UserInfo Activity</string>
+    <string name="user_info_back_button_text">BACK</string>
+</resources>
